@@ -509,7 +509,7 @@ flowchart LR
 3. Add `GEMINI_API_KEY`, `SUPABASE_URL`, and `SUPABASE_SERVICE_ROLE_KEY` as environment variables.
 4. Deploy. Every push to `main` redeploys automatically.
 
-**Live URL:** https://YOUR-APP.vercel.app
+**Live URL:** https://atlasforge-sooty.vercel.app
 
 ---
 
